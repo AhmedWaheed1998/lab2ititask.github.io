@@ -1,0 +1,245 @@
+* {
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.dimensions {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav-bar,
+.Ellipse {
+    display: flex;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-bar {
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+
+.top-nav ul li {
+    margin-right: 25px;
+}
+
+.Ellipse img {
+    margin-right: 25px;
+}
+
+.Ellipse-p-1 {
+    font-weight: bold;
+}
+
+.Virtual-healthcare, .Download-our-mobile-apps {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.des-1 {
+    width: 40%;
+    margin-top: 50px;
+}
+
+.blank-1 {
+    flex-grow: 2;
+}
+
+.des-1-p-2 {
+    background-color: #458FF6;
+    border-radius: 55px;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.des-1 h1 {
+    font-weight: bold;
+}
+
+.Our-services, .Check-out-our-latest-article {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.Our-services p {
+    display: inline-block;
+    width: 75%;
+}
+
+.six-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.Search-doctor, .Online-pharmacy, .Consultation, .Details-info, .Emergency-care, .Tracking {
+    width: 23%;
+    height: 160px;
+    background-color: #f2f6fa;
+    padding: 25px;
+    margin: 15px;
+    margin-left: auto;
+    box-shadow: 1px 6px 8px rgb(192, 192, 192);
+    border-radius: 15px;  
+}
+
+.six-boxes img {
+    width: 28px;
+    height: 40px;
+}
+
+.learn-more, .learn-more-2 {
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    color: #458FF6;
+    border: 1px #458FF6 solid;
+    border-radius: 25px;
+}
+
+.learn-more-2 {
+    width: 90px;
+    height: 40px;
+    font-size: 13px;
+}
+
+.learn-more {
+    margin-bottom: 80px;
+}
+
+.Download-our-mobile-apps {
+    margin-bottom: 80px;
+}
+
+.What-our-customer-are-saying {
+    height: 260px;
+    color: white;
+    background-color: #5A98F2;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px;
+    margin-bottom: 80px;
+    width: 70%;
+}
+
+.Edward-Newgate img {
+    border: 3px white solid;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+
+.Edward-Newgate {
+    display: flex;
+    padding: 20px;
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+
+}
+
+.e-d-p-1 {
+    width: 25%;
+}
+
+.e-d-p-2 {
+    width: 45%;
+}
+
+.icons-Edward-Newgate img {
+    margin-right: 50px;
+    width: 25px;
+    
+}
+
+.icons-Edward-Newgate {
+    text-align: center;
+}
+
+.Check-out-our-latest-article-1-1 {
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    
+} 
+
+.Search-doctor-1, .Online-pharmacy-1, .Consultation-1 {
+    width: 23%;
+    height: 360px;
+    background-color: #f2f6fa;
+    padding: 25px;
+    margin: 15px;
+    margin-left: auto;
+    box-shadow: 1px 6px 8px rgb(192, 192, 192);
+    border-radius: 15px;  
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: start;
+    font-size: 15px;
+}
+
+.Search-doctor-1 {
+    background-image: url('pic6.png');   
+}
+
+.Search-doctor-1 h1, .Search-doctor-11 p,
+.Online-pharmacy-1 h1, .Search-doctor-11 p,
+.Consultation-1 h1, .Search-doctor-11 p {
+    margin-top: 200px;
+}
+
+.s-d-1-img {
+    color : #458FF6;
+}
+
+.Online-pharmacy-1 {
+    background-image: url('pic7.png');   
+}
+
+.Consultation-1 {
+    background-image: url('pic8.png');   
+}
+
+.footer-1 {
+    width: 100%;
+    height: 280px;
+    background-color: #458FF6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    color: white;
+    padding: 65px;
+    padding-top: 45px;
+    box-sizing: border-box;
+}
+
+.f-1 {
+    width: 60%;
+}
+
+.f-2,.f-3,.f-4 {
+    width: 20%;
+}
+
+.Ahmed-Waheed {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    color: white;
+    background-color: #458FF6;
+}
